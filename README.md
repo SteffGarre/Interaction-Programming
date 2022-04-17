@@ -1,3 +1,6 @@
+This project was created by Stefan Garrido, Jens Ekenblad, Erik Vinblad and Jennifer Su as part of a final project in the course DH2642  Interaktionsprogrammering och dynamiska webben at KTH. 
+
+
 # Moviefinder
 A website where users can search for movies, tv series and actors based
 on different search parameters. The users can then create their
